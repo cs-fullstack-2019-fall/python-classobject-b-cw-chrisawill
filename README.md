@@ -1,5 +1,5 @@
 # python-classObject_b-cw
-
+See index.py for comments. 1/3 + partial Score : 2
 Start with a main function and make each problem a function. Call those functions from your main function.
 
 ### Problem 1:
